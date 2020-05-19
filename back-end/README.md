@@ -14,7 +14,8 @@ expected json:
 {
 	"name":"Jhon",
 	"lastName": "Wick",
-	"phone": "123456789"
+	"phone": "123456789",
+	"phone2": "0123456789"
 }
 
 

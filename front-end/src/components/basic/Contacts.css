@@ -1,0 +1,13 @@
+.form-row {
+    margin: 5px !important;
+}
+
+
+#btnSave {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.btn {
+    margin: 10px;
+}

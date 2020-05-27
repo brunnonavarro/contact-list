@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-05-27T13:30:36.027Z" agent="5.0 (X11)" etag="lQ9dZRvdkPWf2K1d7FsD" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-27T13:45:48.494Z" agent="5.0 (X11)" etag="XzSwvEs3cFVgztCwSGtx" version="13.1.3" type="github">
   <diagram id="mBjLz7T49912LiGAMW3A" name="Page-1">
-    <mxGraphModel dx="1622" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1119" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,8 +56,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="35" y="260" />
-              <mxPoint x="30" y="260" />
-              <mxPoint x="30" y="200" />
+              <mxPoint x="20" y="260" />
+              <mxPoint x="20" y="200" />
               <mxPoint x="10" y="200" />
               <mxPoint x="10" y="20" />
               <mxPoint x="110" y="20" />
@@ -111,13 +111,13 @@
         <mxCell id="ghzMU9aXFlvLaxTiIsrm-29" value="NomeCentroDeCusto" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="ghzMU9aXFlvLaxTiIsrm-26" vertex="1">
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="ghzMU9aXFlvLaxTiIsrm-50" value="NotaFiscal" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#CCCC00;" parent="1" vertex="1">
+        <mxCell id="ghzMU9aXFlvLaxTiIsrm-50" value="Despesa" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#CCCC00;" parent="1" vertex="1">
           <mxGeometry x="640" y="40" width="160" height="234" as="geometry" />
         </mxCell>
         <mxCell id="ghzMU9aXFlvLaxTiIsrm-51" value="ID*" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="ghzMU9aXFlvLaxTiIsrm-50" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="ghzMU9aXFlvLaxTiIsrm-52" value="NumeroIdentificacao" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="ghzMU9aXFlvLaxTiIsrm-50" vertex="1">
+        <mxCell id="ghzMU9aXFlvLaxTiIsrm-52" value="NumNotaFiscal" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="ghzMU9aXFlvLaxTiIsrm-50" vertex="1">
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ghzMU9aXFlvLaxTiIsrm-53" value="Valor*" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="ghzMU9aXFlvLaxTiIsrm-50" vertex="1">
